@@ -39,20 +39,6 @@ section at the end of the notebook.
 ## Tools
 Python, Pandas, NumPy, Scikit-learn, XGBoost, imbalanced-learn (SMOTE), Matplotlib, Seaborn, Jupyter Notebook
 
-## Repo structure
-```
-├── Customer_Churning_Project.ipynb   # full analysis, notebook is the main deliverable
-├── images/                           # saved chart PNGs (confusion matrix, feature importance, etc.)
-├── requirements.txt
-└── README.md
-```
-
-## How to run
-```bash
-pip install -r requirements.txt
-jupyter notebook Customer_Churning_Project.ipynb
-```
-
 ## Dataset
 [Telco Customer Churn (IBM sample dataset)](https://www.kaggle.com/datasets/blastchar/telco-customer-churn) — widely used on Kaggle.
 
